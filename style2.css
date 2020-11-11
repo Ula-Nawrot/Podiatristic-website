@@ -253,7 +253,7 @@ h1{
     font-size: 15px;
 }
 p{
-    padding: 10px 0px 10px 0px;
+    padding: 0x;
     text-align: justify;
     
 }
@@ -263,6 +263,13 @@ p{
         flex-direction: column;
     }
 }
+/* UŁUGI ZAWARTOŚĆ*/
+#usługi-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+/* KONIEC - UŁUGI ZAWARTOŚĆ*/
 
 /*KONIEC ZAWARTOŚCI*/
 footer{
